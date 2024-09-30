@@ -1,7 +1,7 @@
 === WooCommerce Add to Cart Custom Redirect ===
 Contributors: forwardflip, renventura
 Tags: WooCommerce, Redirect
-Tested up to: 6.5
+Tested up to: 6.6
 Stable Tag: 1.2.14
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
