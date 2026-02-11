@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Woocommerce Add-to-Cart Custom Redirect
+ * Plugin Name: Add-to-Cart Custom Redirect for WooCommerce
  * Plugin URI: https://wc-redirects.com/
  * Description: Redirect customers to a defined URL after a WooCommerce product is added to the cart.
  * Author: ForwardFlip
