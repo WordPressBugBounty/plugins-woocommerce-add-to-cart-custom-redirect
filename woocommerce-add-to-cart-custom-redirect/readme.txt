@@ -1,16 +1,16 @@
 === Add to Cart Custom Redirect for WooCommerce ===
 Contributors: forwardflip, renventura
-Tags: WooCommerce, Redirect
-Tested up to: 6.9
+Tags: add to cart redirect, woocommerce redirect, redirect, skip cart, direct checkout
+Tested up to: 7.1
 Stable Tag: 1.2.14
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set your WooCommerce products to redirect to a custom URL when added to the cart.
+Redirect customers to a custom URL when they add a product to the cart: skip the cart and go straight to checkout, or show another page.
 
 == Description ==
 
-This plugin adds a field to the Edit Product page (under the General product info) that accepts a URL from the administrator or shop manager. When this field is set, the front-end user (customer) will be redirected to the URL when that product is added to the cart. This can be useful if you want to automatically prompt your customers to purchase other products.
+This plugin adds a field to the Edit Product page (under the General product info) that accepts a URL from the administrator or shop manager. When this field is set, the front-end user (customer) will be redirected to the URL when that product is added to the cart. Point it at your checkout page to skip the cart and give customers a direct checkout, or at another product or page to prompt them to buy more.
 
 ### Upgrade to Custom Redirects for WooCommerce
 
